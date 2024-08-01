@@ -1,9 +1,11 @@
 # GitHub-Api
 
 ## Overview
-This application is written in Java using the Spring Framework.
-It interacts with the GitHub API via a client and processes JSON responses
-to provide detailed information about the repositories and their branches.
+This application, developed in Java using the Spring Framework, leverages the GitHub API to retrieve and analyze user and repository data. The core functionality includes:
+
+User and Repository Information: Fetches detailed information about GitHub users and their repositories, excluding forked repositories.
+Branch Details: Retrieves branch names and the latest commit SHA for each non-forked repository.
+The application utilizes a RESTful client to interact with the GitHub API, processes JSON responses, and structures the data for comprehensive analysis. It is designed to provide developers with valuable insights into repository structures and their latest commits.
 
 ## Table of Contents
 - [Technologies](#technologies)
