@@ -1,4 +1,4 @@
-# Github-Api
+# GitHub-Api
 
 ## Overview
 This application is written in Java using the Spring Framework.
